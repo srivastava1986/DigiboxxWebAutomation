@@ -1,0 +1,11 @@
+#elementname;locators;value
+
+#loginpage
+digispace;xpath;//*[@id='workspace']
+emailid;xpath;//*[@id='Username']
+password;xpath;//*[@id='Password']
+loginbutton;xpath;//*[@class='start-btn']
+
+
+############HomePage##################
+homepage;xpath;//*[@class='bread_font elipsis nthelement ng-star-inserted']

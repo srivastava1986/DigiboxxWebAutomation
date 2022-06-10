@@ -8,6 +8,7 @@ public class LoginPageObject extends GetPage {
     ConfigFileReader reader=new ConfigFileReader();
 
     public LoginPageObject(WebDriver driver) {
+
         super(driver,"LoginPageTest");
     }
 
